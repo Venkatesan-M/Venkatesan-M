@@ -3,7 +3,8 @@
 <h1 align="center">Hi 👋, I'm Venkatesan M</h1>
 <h3 align="center">Aspiring Software Engineer | VIT Chennai | Passionate about Technology and Problem Solving</h3>
 
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/3AyY.gif">
+<img align="right" alt="Coding" width="400"  src="https://giffiles.alphacoders.com/195/195303.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=venkatesan-m&label=Profile%20views&color=0e75b6&style=flat" alt="venkatesan-m" /> </p>
 
