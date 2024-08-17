@@ -4,7 +4,9 @@
 <h1 align="center">Hi 👋, I'm Venkatesan M</h1>
 <h3 align="center">Aspiring Software Engineer | VIT Chennai | Passionate about Technology and Problem Solving</h3>
 
-<img align="right" src="https://venkatesan-m.sirv.com/aws-saa.gif" width="400" height="400" alt="aws saa">
+<a href="https://www.credly.com/badges/5f56d536-a068-4b2e-8bec-59e19a09b10b/public_url">
+  <img align="right" src="https://github.com/user-attachments/assets/5caa4630-7bd0-4f2a-a725-aa0e13dd2151" width="350" height="350" alt="aws saa">
+</a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=venkatesan-m&label=Profile%20views&color=0e75b6&style=flat" alt="venkatesan-m" /> </p>
 
